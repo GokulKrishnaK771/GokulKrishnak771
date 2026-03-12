@@ -10,7 +10,13 @@
 
 </div>
 
-Building experimental products and AI-powered developer tools. Frontend developer working with **React, Tailwind, Vite, Redux**, and modern web technologies.
+<div align="center">
+  
+  <img src="./arrow.png" alt="Gokul Krishna Banner" width="100%" />
+  
+</div>
+
+Building modern web applications & experimental products. Frontend developer working with **React, Tailwind, Vite, Redux**, and modern web technologies. Exploring how AI can enhance product creation.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-c56a90?style=for-the-badge)](https://gokulkrishnakportfolio.vercel.app/)
 
