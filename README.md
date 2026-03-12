@@ -3,11 +3,7 @@
   <img src="./Banner.png" alt="Gokul Krishna Banner" width="100%" />
   
 </div>
-<div align="center">
 
-# 👋 Hey, I'm Gokul Krishna
-
-</div>
 <div align="center">
   
 **Creative Developer • AI Tool Explorer**
@@ -20,7 +16,7 @@ Building experimental products and AI-powered developer tools. Frontend develope
 
 # 🚀 About Me
 
-I'm a developer who enjoys turning ideas into real working products.
+I'm a creative developer who enjoys turning ideas into real working products.
 
 I like experimenting with:
 
@@ -29,9 +25,16 @@ I like experimenting with:
 - 🎨 UI/UX focused web applications
 - ⚡ Fast product prototyping
 
-## 🚀 Currently Building AI Powered Content Creator Tool
+I build modern web applications, experiment with developer tools, and explore how AI can enhance product creation.
 
-Most of my work revolves around exploring how AI can improve developer workflows and product creation.
+## 🛠️ Currently Building
+🤖 AI-Powered Content Creation Tool
+
+An experimental platform focused on helping creators generate, optimize, and manage content using AI.
+
+The goal is simple:
+
+Make powerful tools that remove friction from creation.
 
 ## 🚀 Let’s Build Something Awesome!  
 Got an idea? Want to collab? I’m all in for exciting projects and new challenges. Explore my work, shoot me a message, or let’s team up to create something extraordinary!  
@@ -51,17 +54,6 @@ an idea becomes a working tool people can use.
 
 
 <br clear="both"/>
-
----
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-153%20hrs-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-81%20hrs-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-6%20hrs-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-17%20hrs-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-</div>
 
 ---
 
