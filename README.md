@@ -18,7 +18,7 @@
 
 Building modern web applications & experimental products. Frontend developer working with **React, Tailwind, Vite, Redux**, and modern web technologies. Exploring how AI can enhance product creation.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-c56a90?style=for-the-badge)](https://gokulkrishnakportfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-c56a90?style=for-the-badge)](https://gokulkrishnak.vercel.app/)
 
 # 🚀 About Me
 
